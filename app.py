@@ -8,9 +8,9 @@ from bs4 import BeautifulSoup
 import wikipedia
 import googlemaps
 
-API_TOKEN = '5483608488:AAHTv_dchI4Nprr5KMEA1GbG9mYNHNCLS8A'
+API_TOKEN = '####'
 
-API_KEY = 'AIzaSyBRtO0nXXLZo9wkZg6Z125dI3sfOdUpNhw'
+API_KEY = '####'
 
 # url lista luoghi generici
 URL_GENERIC_PLACES = "https://www.charmingpuglia.com/it/10-posti-da-visitare-in-puglia"
